@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="RatingBar" tools:ignore="ResourceName">
+        <attr name="rating_imageWidth" format="dimension"/>
+        <attr name="rating_imageHeight" format="dimension"/>
+        <attr name="rating_imageGap" format="dimension"/>
+        <attr name="rating_maxCount" format="integer"/>
+        <attr name="rating_rateCount" format="float"/>
+        <attr name="rating_background" format="reference"/>
+        <attr name="rating_color" format="color"/>
+    </declare-styleable>
+</resources>
